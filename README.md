@@ -1,6 +1,6 @@
 # Tilt To Live
 Personal project for Darrien Lee. A rudimentary remake of a mobile game (of the same name) for PC.
-Created using the unity game engine utilizing C#, self created sprites, and simple game logic. 
+Created using the unity game engine utilizing C#, sprites, and simple game logic. 
 
 ### Goals
 Created as a personal project to learn and familiarize myself with C# scripting as well as to learn how game engine logic, gameplay programming, and game engine interfaces work.
