@@ -24,5 +24,5 @@ Step 3) Enjoy!
 3. Many of the scripts follow tutorials from the Unity User Manual, various online forums, educational videos, and tutorial articles.
     - The project itself was implemented myself and only the logic remains from these various sources for my project to work coherently and properly.
 4. For legal reasons, all sprites and assets are not mine nor do I claim ownership of them.
-    - Sprites were found using google and from the Unity assets store.
+    - Sprites were found using google and from the Unity assets store, but edited and scaled myself.
 
